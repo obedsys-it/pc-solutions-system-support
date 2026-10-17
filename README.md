@@ -1,6 +1,6 @@
 # PC Solutions: System Support Project
 
-This project contains the following components:
+This repository contains the project documentation for the PC Solutions system support initiative, including:
 
 - Feasibility Study
 - Security Plan
@@ -9,4 +9,8 @@ This project contains the following components:
 - Implementation Plan
 - Final Recommendations
 
-This repository is intended to organize and present the system support project for PC Solutions.
+The purpose of this repository is to organize and present the complete project documentation for PC Solutions.
+
+Full presentation
+
+- Watch the full project presentation on YouTube: https://youtu.be/5Stq3Vmuw_4
