@@ -9,6 +9,7 @@ This documentation set supports the System Support project by covering the addit
 - Software Selection
 - Timeline & Schedule
 - Scope
+- Case Study
 
 ## Purpose
 These documents provide a structured foundation for evaluating, planning, and implementing the system support solution for PC Solutions.
